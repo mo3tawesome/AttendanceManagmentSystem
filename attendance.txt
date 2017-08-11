@@ -1,0 +1,4 @@
+absent with reason mo3 25-6 2am 3pm math 101 amr
+present bibo 25-6 2am 3pm math 101 amr
+present mo3 26-6 5am 4pm chem 202 omar
+absent bibo 26-6 5am 4pm chem 202 omar
